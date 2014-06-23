@@ -1,0 +1,9 @@
+Basic HTIS Integration with LTI
+
+	* Tool Consumer
+		
+		* Launcher - a basic launch system based on current user
+
+	* Tool Provider
+
+		* Stand alone tool provider (education tool) for testing
